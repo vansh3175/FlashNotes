@@ -36,19 +36,17 @@ FlashNotes is an AI-powered web app that helps students upload lectures, generat
 
 ## 📷 Screenshots
 
-> Replace these with your real screenshots later.
-
 ### 🏠 Home Page  
-![Home Screenshot](./screenshots/home.png)
+![Home Screenshot](./screenshots/Home.png)
 
 ### 📚 Dashboard  
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](./screenshots/Dashboard.png)
 
 ### ✍️ Summary Page  
-![Summary Screenshot](./screenshots/summary.png)
+![Summary Screenshot](./screenshots/Summary.png)
 
 ### 🧠 Flashcards  
-![Flashcards Screenshot](./screenshots/flashcards.png)
+![Flashcards Screenshot](./screenshots/Flashcards.png)
 
 ### 📝 Quiz Page  
 ![Quiz Screenshot](./screenshots/quiz.png)
