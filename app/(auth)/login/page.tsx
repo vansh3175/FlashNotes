@@ -105,11 +105,7 @@ export default function Login (){
             
           </div>
 
-          <div className="flex justify-end">
-            <p className="text-blue-600 text-sm font-medium hover:underline cursor-pointer">
-              Forgot password?
-            </p>
-          </div>
+          
 
           {error && (
             <p className="text-red-500 text-sm font-medium -mt-2">{error}</p>
